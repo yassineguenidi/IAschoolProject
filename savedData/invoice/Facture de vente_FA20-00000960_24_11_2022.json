@@ -1,0 +1,67 @@
+[
+    {
+        "Class": "invoice number",
+        "Confidence": 0.86551,
+        "Extracted_text": "FA2O-00000960"
+    },
+    {
+        "Class": "invoice date",
+        "Confidence": 0.85389,
+        "Extracted_text": "24/11/2022"
+    },
+    {
+        "Class": "Products",
+        "Confidence": 0.85308,
+        "Extracted_text": "OMEX K 41 EMB 1 L OMEX K 41 EMB 1 L 40,000 TVAO% 11 200 BIOMAT EMB 1 L BIOMAT EMB 1 L 55,000 TVAO% 11 48,950 71,"
+    },
+    {
+        "Class": "total",
+        "Confidence": 0.83845,
+        "Extracted_text": "120,750 TND"
+    },
+    {
+        "Class": "Name_Client",
+        "Confidence": 0.81625,
+        "Extracted_text": "IBRAHIM BECHAIBI"
+    },
+    {
+        "Class": "header",
+        "Confidence": 0.81315,
+        "Extracted_text": "Reference Désignation Qté PU H:T TVA REM % Total HT"
+    },
+    {
+        "Class": "Tax",
+        "Confidence": 0.79948,
+        "Extracted_text": "0,600 TND"
+    },
+    {
+        "Class": "Tax",
+        "Confidence": 0.76115,
+        "Extracted_text": "0,000 TND"
+    },
+    {
+        "Class": "Tax_Precentage",
+        "Confidence": 0.70225,
+        "Extracted_text": "0,0"
+    },
+    {
+        "Class": "Remise",
+        "Confidence": 0.69829,
+        "Extracted_text": "120,150 TND"
+    },
+    {
+        "Class": "Remise",
+        "Confidence": 0.56081,
+        "Extracted_text": "14,850 TND"
+    },
+    {
+        "Class": "Subtotal",
+        "Confidence": 0.54765,
+        "Extracted_text": "14,850 TND"
+    },
+    {
+        "Class": "total",
+        "Confidence": 0.25237,
+        "Extracted_text": "0,600 TND 120.750 TND"
+    }
+]

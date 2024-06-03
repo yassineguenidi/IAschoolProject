@@ -1,0 +1,57 @@
+[
+    {
+        "bbox": [
+            88.15998840332031,
+            278.955078125,
+            551.1860961914062,
+            446.160888671875
+        ],
+        "confidence": 0.94354,
+        "class_name": "Products",
+        "extracted_text": "Turtleneck\t34.00\tLong Black Tee\t9.00\tGraphic T-shirts\t9.00\tXander Backpack\t59.00\tTurtle Print Pajamas\t29.00\tSkinny Jean Acid Washed\t45.00\tAirplane socks\tIZct_\t15.00"
+    },
+    {
+        "bbox": [
+            398.62506103515625,
+            488.548095703125,
+            548.7670288085938,
+            531.684326171875
+        ],
+        "confidence": 0.8924,
+        "class_name": "total",
+        "extracted_text": "227.00"
+    },
+    {
+        "bbox": [
+            89.76020812988281,
+            208.5492706298828,
+            552.2942504882812,
+            249.54808044433594
+        ],
+        "confidence": 0.87558,
+        "class_name": "header",
+        "extracted_text": "DESCRIPTION\tQTY\tPRICE"
+    },
+    {
+        "bbox": [
+            544.16552734375,
+            25.806304931640625,
+            590.713623046875,
+            39.70587158203125
+        ],
+        "confidence": 0.82098,
+        "class_name": "invoice number",
+        "extracted_text": "8397465"
+    },
+    {
+        "bbox": [
+            487.2684020996094,
+            41.664676666259766,
+            591.517333984375,
+            57.62417221069336
+        ],
+        "confidence": 0.73684,
+        "class_name": "invoice date",
+        "extracted_text": "NOVEMBER 20 , 2019"
+    }
+]

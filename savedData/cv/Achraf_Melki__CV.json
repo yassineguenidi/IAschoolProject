@@ -1,0 +1,72 @@
+[
+    {
+        "Class": "Education",
+        "Confidence": 0.94618,
+        "Extracted_text": "EDUCATION Industrial computer engineering National School of Electronics and Telecoms of Sfax Sep 2020 Present Sfax, Tunisia Technology Pre-Engineering cycle National Nabeul Preparatory Engineering Institute Sep 2018 jun 2020 Nabeul, Tunisia"
+    },
+    {
+        "Class": "Image",
+        "Confidence": 0.92683,
+        "Extracted_text": ""
+    },
+    {
+        "Class": "Skills",
+        "Confidence": 0.92492,
+        "Extracted_text": "SKILLS Python C/ C # Java HTML CSS Javascript Angular CNN OCR Unity Blender VScode Jupyter Eclipse"
+    },
+    {
+        "Class": "Projects",
+        "Confidence": 0.91479,
+        "Extracted_text": "PROJECTS Automatic plate recognition and OCR Developing a computer vision practice that allows devices to license number on vehicles and extracts them to text. Python Tensorflow Body tracking application with Kinect and Blender Developing a desktop APP that allows you to use Kinect pre-built algorithms and track body joints,gestures and extract its coordinates. C# Xaml Kinect VS studio read"
+    },
+    {
+        "Class": "Name",
+        "Confidence": 0.89987,
+        "Extracted_text": "ACHRAF MELKI"
+    },
+    {
+        "Class": "Certifications",
+        "Confidence": 0.88374,
+        "Extracted_text": "CERTIFICATES GOOGLE Crash Course on Python certificate (Coursera) certificate in C (SoloLearn) Swiss Nova personal Profile"
+    },
+    {
+        "Class": "Languages",
+        "Confidence": 0.85765,
+        "Extracted_text": "LANGUAGES Arabic: Native English: Fluent French: Advanced"
+    },
+    {
+        "Class": "Projects",
+        "Confidence": 0.73362,
+        "Extracted_text": "ACHIEVEMENTS 2nd palce in SnapAR competition at AIHACK Tunisia 2022 Biggest AR hackathon in the MEA region developed a SNAPchat filter with hand recognition feature using LenSstudio. 3rd place at Voiture Hackaton by Draexlmaier 2021 National hackathon for solving real industrial problems.I developed a computer vision algorithm to differentiate between pieces."
+    },
+    {
+        "Class": "Email",
+        "Confidence": 0.7174,
+        "Extracted_text": "achraf melkii@gmail.com"
+    },
+    {
+        "Class": "Projects",
+        "Confidence": 0.58948,
+        "Extracted_text": "EXPERIENCE Summer school program in business and managment Leipzig University jun 2022 Leipzig, Germany Studied business model design. Porsche Leipzig industrial visit , factory tour. Summer internship Advantry X Jully 2022 2022 Sfax,Tunisia Developing an augmented reality application for maintenance unisg Unity C#, this application will facilitate the maintenance activity by: placing objects or items for maintenance to visualize. drawing in the augmented world to facilitate guidance. detecting and track images and show specific informations. C# Unity MySQL Blender Summer internship DotCOM jully 2021 Aug 2021 Nabeul, Tunisia Developing a travel agency website that allows you to search ,view an book hotel rooms. Angular HTML CSS Javascript Aug"
+    },
+    {
+        "Class": "Experience",
+        "Confidence": 0.55788,
+        "Extracted_text": "EXPERIENCE Summer school program in business and managment Leipzig University jun 2022 Leipzig, Germany Studied business model design. Porsche Leipzig industrial visit , factory tour. Summer internship Advantry X Jully 2022 2022 Sfax,Tunisia Developing an augmented reality application for maintenance unisg Unity C#, this application will facilitate the maintenance activity by: placing objects or items for maintenance to visualize. drawing in the augmented world to facilitate guidance. detecting and track images and show specific informations. C# Unity MySQL Blender Summer internship DotCOM jully 2021 2021 Nabeul, Tunisia Developing a travel agency website that allows you to search ,view anc book hotel rooms Angular HTML CSS Javascript Aug Aug"
+    },
+    {
+        "Class": "Phone",
+        "Confidence": 0.54767,
+        "Extracted_text": "+216 53460622"
+    },
+    {
+        "Class": "LinkedIn",
+        "Confidence": 0.47058,
+        "Extracted_text": "in/achraf-melki-0337371b8/"
+    },
+    {
+        "Class": "Adresse",
+        "Confidence": 0.36437,
+        "Extracted_text": "Nabeul, Tunisia"
+    }
+]

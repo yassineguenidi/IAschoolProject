@@ -1,0 +1,67 @@
+[
+    {
+        "Class": "Email_Client",
+        "Confidence": 0.88146,
+        "Extracted_text": "@adkinstechco site,com Jnto"
+    },
+    {
+        "Class": "Tel_Client",
+        "Confidence": 0.87668,
+        "Extracted_text": "311-555-0102"
+    },
+    {
+        "Class": "invoice date",
+        "Confidence": 0.86953,
+        "Extracted_text": "Sep- 08-2024"
+    },
+    {
+        "Class": "Subtotal",
+        "Confidence": 0.8639,
+        "Extracted_text": "550.50"
+    },
+    {
+        "Class": "total",
+        "Confidence": 0.86224,
+        "Extracted_text": "544.61"
+    },
+    {
+        "Class": "Tax_Precentage",
+        "Confidence": 0.85776,
+        "Extracted_text": "79"
+    },
+    {
+        "Class": "Tax",
+        "Confidence": 0.85647,
+        "Extracted_text": "$3.54"
+    },
+    {
+        "Class": "Name_Client",
+        "Confidence": 0.85558,
+        "Extracted_text": "Adkins Tech & Co."
+    },
+    {
+        "Class": "Due_Date",
+        "Confidence": 0.84629,
+        "Extracted_text": "Oct- 28 2024"
+    },
+    {
+        "Class": "invoice number",
+        "Confidence": 0.84063,
+        "Extracted_text": "114829"
+    },
+    {
+        "Class": "billing address",
+        "Confidence": 0.82195,
+        "Extracted_text": "182 Corn St , Boston; MA"
+    },
+    {
+        "Class": "header",
+        "Confidence": 0.81406,
+        "Extracted_text": "Services Hrs/Qty Hr Rate Amount"
+    },
+    {
+        "Class": "Products",
+        "Confidence": 0.80417,
+        "Extracted_text": "Digital ock installation 520.50 520.50 CCTV system installation 530 530"
+    }
+]

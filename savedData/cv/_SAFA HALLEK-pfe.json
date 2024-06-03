@@ -1,0 +1,62 @@
+[
+    {
+        "Class": "Education",
+        "Confidence": 0.947,
+        "Extracted_text": "Education Cycle dingénieur_en informatique Ecole Supérieure Privée dIngénierie et de Technologies (ESPRIT) Option: Cloud Computing 2020-2023 Licence appliquée en technologie_des résequx et télécommunication faculté des sciences de Bizerte 2016-2019 Baccalaurégt Lycée Route de Gabes; Médenine Section: sciences expérimentales 2015-2016"
+    },
+    {
+        "Class": "Skills",
+        "Confidence": 0.94064,
+        "Extracted_text": "Compétences DevOps Vagrant Jenkins Git Sonarqube Nexus Docker Ansible Kubernetes Terraform système d'exploitation Linux (RedHat / Debian) Virtualisation KVM VMWare conception et méthodes UML Agile (scrum Base de données MySQL Oracle MongoDB Cloud provider: Openstack Azure connaissance WEB SpringBoot Angular Java Symfony ASP NET Grafana Réseaux informatiques: configuration et Administration de linfrastrecture et sécurité."
+    },
+    {
+        "Class": "Resume",
+        "Confidence": 0.89675,
+        "Extracted_text": "Je suis ambitieuse et motivée; avec la capacité de m'adapter à nimporte quelle situation et un potentiel prouvé pour me développer et développer les autres. Je suis orientée vers les résultats en apprenant de nouvelles technologies et en sachant plus sur le cloud computing et DevOps. Je recherche actuellement un stage PFE de 6 mois."
+    },
+    {
+        "Class": "Image",
+        "Confidence": 0.87499,
+        "Extracted_text": ""
+    },
+    {
+        "Class": "Phone",
+        "Confidence": 0.85532,
+        "Extracted_text": "+216 24 024 527"
+    },
+    {
+        "Class": "Experience",
+        "Confidence": 0.81188,
+        "Extracted_text": "Expériences professionnelles Stage dimmersion en entreprise Virtualisation & administration des systèmes dexploitation Windows et Windows Server (2008/2012) Technologies VMware vCenter Converter Standalone Client et Workstation; AD DS Active Directory Domain Services) Agence des Ports et des Ijuil. 2021 sept. 2021 Installations de Pêche (APIP) La Goulette Projet de fin_Licence conception et réalisation d'une application de reconnaissance de formes (Utilisation de Ia bibliothèque Tensorflow; React Js; Angular Js sur Ubuntu) Centre dinnovation Technop- Fév 2020 Juin2020 ElGazela Ariana"
+    },
+    {
+        "Class": "Email",
+        "Confidence": 0.75449,
+        "Extracted_text": "safahallek@esprit.tn"
+    },
+    {
+        "Class": "LinkedIn",
+        "Confidence": 0.55973,
+        "Extracted_text": "WWW linkedin.com/in/safa-hallek_ 90813143/"
+    },
+    {
+        "Class": "Name",
+        "Confidence": 0.50514,
+        "Extracted_text": "Safa HALLEK"
+    },
+    {
+        "Class": "Projects",
+        "Confidence": 0.46527,
+        "Extracted_text": "Projets Académiques KidZone:_Cloud IAAs project Nov. 2021 Mai. 2022 ESPRIT Infrastructure Openstack (Keystone; Nova; Neutron; Horizon; Glance; Heat; Cinder, Swift) . Virtualisation: KVM Développé par SpringBoot; Angular Orchestré et déployé par Kubernetes; Ansible; Docker Projet dintégration de développement @Jan. 2021 Mai. 2022 @ESPRIT Technologies utilisées: Java; Codename One; Symfony4; HTMLS, CSS3, Bootstrap; Javascript; MySQL"
+    },
+    {
+        "Class": "Skills",
+        "Confidence": 0.37351,
+        "Extracted_text": "Projet CILcp Sep. 2022 Oct. 2022 ESPRIT Mise en place dun pipeline cI/cD contrôle de version Git construction et gestion de projet Maven Testing Framework JUnit Serveur dautomatisation Jenkins Qualité de code SonarQube gestionnaire du dépôt Nexus"
+    },
+    {
+        "Class": "Adresse",
+        "Confidence": 0.35512,
+        "Extracted_text": "2083 cité Elghazla Ariana; Tunisie"
+    }
+]

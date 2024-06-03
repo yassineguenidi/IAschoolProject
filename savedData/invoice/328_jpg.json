@@ -1,0 +1,156 @@
+[
+    {
+        "bbox": [
+            253.40277099609375,
+            306.3744201660156,
+            589.7061157226562,
+            442.3788146972656
+        ],
+        "confidence": 0.93218,
+        "class_name": "Products",
+        "extracted_text": "Cake Box 12 x 12\t819.50\t839\tCake Board\t512.50\t819.50\tCake Box I0 x 10\t10\""
+    },
+    {
+        "bbox": [
+            249.5306854248047,
+            257.2511291503906,
+            600.2195434570312,
+            286.2995910644531
+        ],
+        "confidence": 0.90011,
+        "class_name": "header",
+        "extracted_text": "DESCRIPTION\tUNIT cost\tATY\tAMOUNT"
+    },
+    {
+        "bbox": [
+            247.28221130371094,
+            203.00096130371094,
+            331.8915710449219,
+            214.55433654785156
+        ],
+        "confidence": 0.8784,
+        "class_name": "Tel_Client",
+        "extracted_text": "(411) 555-0100"
+    },
+    {
+        "bbox": [
+            517.4244995117188,
+            101.39936065673828,
+            608.6148071289062,
+            115.35491180419922
+        ],
+        "confidence": 0.8767,
+        "class_name": "invoice date",
+        "extracted_text": "May-15 z0xX"
+    },
+    {
+        "bbox": [
+            248.2750244140625,
+            215.7340545654297,
+            426.854736328125,
+            228.54847717285156
+        ],
+        "confidence": 0.87045,
+        "class_name": "Email_Client",
+        "extracted_text": "InfolemishbakescakesSite com"
+    },
+    {
+        "bbox": [
+            247.62460327148438,
+            173.83383178710938,
+            361.4265441894531,
+            186.12698364257812
+        ],
+        "confidence": 0.87041,
+        "class_name": "Name_Client",
+        "extracted_text": "Ellis Bakes\tCakes"
+    },
+    {
+        "bbox": [
+            292.3705139160156,
+            101.7631607055664,
+            374.9798278808594,
+            115.1875228881836
+        ],
+        "confidence": 0.86626,
+        "class_name": "invoice date",
+        "extracted_text": "Apr-11 20xX"
+    },
+    {
+        "bbox": [
+            495.0795593261719,
+            508.7149963378906,
+            585.4946899414062,
+            531.3279418945312
+        ],
+        "confidence": 0.83691,
+        "class_name": "total",
+        "extracted_text": "S101.60"
+    },
+    {
+        "bbox": [
+            326.1495056152344,
+            526.2613525390625,
+            351.6637878417969,
+            537.757080078125
+        ],
+        "confidence": 0.83563,
+        "class_name": "Discount_Percentage",
+        "extracted_text": "1096"
+    },
+    {
+        "bbox": [
+            409.47332763671875,
+            496.5866394042969,
+            454.819580078125,
+            510.2685241699219
+        ],
+        "confidence": 0.83529,
+        "class_name": "Tax",
+        "extracted_text": "81Z.90"
+    },
+    {
+        "bbox": [
+            245.582763671875,
+            187.6738739013672,
+            409.97259521484375,
+            201.0361785888672
+        ],
+        "confidence": 0.82792,
+        "class_name": "billing address",
+        "extracted_text": "175 Powell St  Boston, MA"
+    },
+    {
+        "bbox": [
+            114.53730773925781,
+            103.26692199707031,
+            155.3026580810547,
+            114.08470153808594
+        ],
+        "confidence": 0.79889,
+        "class_name": "invoice number",
+        "extracted_text": "59266"
+    },
+    {
+        "bbox": [
+            408.2519836425781,
+            472.1890563964844,
+            456.6045227050781,
+            485.7165222167969
+        ],
+        "confidence": 0.79094,
+        "class_name": "Subtotal",
+        "extracted_text": "S105.50"
+    },
+    {
+        "bbox": [
+            324.3752746582031,
+            499.3423767089844,
+            342.3415832519531,
+            509.4985656738281
+        ],
+        "confidence": 0.77748,
+        "class_name": "Tax_Precentage",
+        "extracted_text": ""
+    }
+]

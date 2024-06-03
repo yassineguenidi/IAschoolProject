@@ -1,0 +1,156 @@
+[
+    {
+        "bbox": [
+            37.159820556640625,
+            309.7917175292969,
+            604.113037109375,
+            384.8613586425781
+        ],
+        "confidence": 0.92196,
+        "class_name": "Products",
+        "extracted_text": "water drain excavation\n$50\n$100\nRetaining wall construction\n$30.50\n591.50"
+    },
+    {
+        "bbox": [
+            538.5097045898438,
+            486.7485046386719,
+            600.1260375976562,
+            501.0726623535156
+        ],
+        "confidence": 0.87618,
+        "class_name": "total",
+        "extracted_text": "8194.65"
+    },
+    {
+        "bbox": [
+            143.4911346435547,
+            79.0011978149414,
+            212.7526092529297,
+            92.21857452392578
+        ],
+        "confidence": 0.84574,
+        "class_name": "invoice number",
+        "extracted_text": "10022996"
+    },
+    {
+        "bbox": [
+            53.118797302246094,
+            220.07411193847656,
+            216.25186157226562,
+            235.1106719970703
+        ],
+        "confidence": 0.84573,
+        "class_name": "Email_Client",
+        "extracted_text": "infombradfordcc.sitecom"
+    },
+    {
+        "bbox": [
+            89.42103576660156,
+            94.07191467285156,
+            187.21107482910156,
+            107.9698486328125
+        ],
+        "confidence": 0.82789,
+        "class_name": "invoice date",
+        "extracted_text": "Sep-10-20xX"
+    },
+    {
+        "bbox": [
+            539.7236938476562,
+            415.62982177734375,
+            600.5630493164062,
+            430.19158935546875
+        ],
+        "confidence": 0.8266,
+        "class_name": "Subtotal",
+        "extracted_text": "5191,50"
+    },
+    {
+        "bbox": [
+            539.533935546875,
+            451.20367431640625,
+            591.6177978515625,
+            465.3402099609375
+        ],
+        "confidence": 0.79482,
+        "class_name": "Tax",
+        "extracted_text": "513.40"
+    },
+    {
+        "bbox": [
+            52.93318176269531,
+            208.67428588867188,
+            154.73529052734375,
+            220.21609497070312
+        ],
+        "confidence": 0.78334,
+        "class_name": "Tel_Client",
+        "extracted_text": "(3111555-0100"
+    },
+    {
+        "bbox": [
+            50.07843017578125,
+            171.01058959960938,
+            195.88507080078125,
+            184.30258178710938
+        ],
+        "confidence": 0.73025,
+        "class_name": "Name_Client",
+        "extracted_text": "Bradford Country\nclub"
+    },
+    {
+        "bbox": [
+            85.75513458251953,
+            110.25291442871094,
+            178.30584716796875,
+            125.43731689453125
+        ],
+        "confidence": 0.70023,
+        "class_name": "Due_Date",
+        "extracted_text": "Oct-10-20XX"
+    },
+    {
+        "bbox": [
+            51.60158920288086,
+            184.81964111328125,
+            158.4742431640625,
+            206.00961303710938
+        ],
+        "confidence": 0.61442,
+        "class_name": "billing address",
+        "extracted_text": "263 Medlar Rd_\ncocr\nJAno"
+    },
+    {
+        "bbox": [
+            539.6240844726562,
+            435.5418395996094,
+            566.2171020507812,
+            446.8289489746094
+        ],
+        "confidence": 0.51919,
+        "class_name": "Tax_Precentage",
+        "extracted_text": ""
+    },
+    {
+        "bbox": [
+            91.01886749267578,
+            110.1783447265625,
+            179.05853271484375,
+            123.85636901855469
+        ],
+        "confidence": 0.4392,
+        "class_name": "invoice date",
+        "extracted_text": "Jct-10-20XX"
+    },
+    {
+        "bbox": [
+            538.7516479492188,
+            471.1905517578125,
+            564.3930053710938,
+            482.6036376953125
+        ],
+        "confidence": 0.39653,
+        "class_name": "Tax",
+        "extracted_text": "596"
+    }
+]

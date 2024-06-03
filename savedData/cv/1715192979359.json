@@ -1,0 +1,67 @@
+[
+    {
+        "Class": "Experience",
+        "Confidence": 0.95691,
+        "Extracted_text": "{9 PROFESSIONAL REFERENCES GenAI-powered app for Keywords Generation from Medical Transcription Generated keywords from medical reports with a Fine-tuned BART Model text summarization to facilitate access and save time; providing higher quality care to more patients Web Scraping and Sentiment Analysis for Stocks Prices from Financial News Scraped articles,news and tweets from finvizcom to evaluate the impact of the boycott on KFC, CocaCola and Starbuks with NLP-based system Information Extraction from Receipts using Google's Gemini Pro Vision Used LLMs model to Extract information from invoices, capturing vendor details, numbers, dates, and amounts with unparalleled accuracy and save all the data in JSON format: for"
+    },
+    {
+        "Class": "Resume",
+        "Confidence": 0.93663,
+        "Extracted_text": "PERSONAL PROFILE Highly skilled Data Scientist driven by a profound passion for problem solving and keen interest to learn more about financial markets. My expertise includes ML, LLMs, statistical data analysis, and data visualization"
+    },
+    {
+        "Class": "Education",
+        "Confidence": 0.92135,
+        "Extracted_text": "ACADEMIC STUDIES MSc in Statistics and Data Analytics, ESSAI 2022 2025 Tunis, Tunisia Engineering Diploma Courses to become a Data Scientist Statistics, IT, Economics Post-Secondary, Preparatory Classes, IPEIB 2020 2022 Bizerte; Tunisia Pre-Engineering Main subiects studied: Mathematics, Physics, IT"
+    },
+    {
+        "Class": "Image",
+        "Confidence": 0.91326,
+        "Extracted_text": ""
+    },
+    {
+        "Class": "Experience",
+        "Confidence": 0.89826,
+        "Extracted_text": "PROFESSIONAL EXPERIENCE Data Scientist Bridges Bridges.SA Jun 2023 Aug 2023 Developed a strategic web application for scoring and fraud detection Created a python script to extract; filter and analyze Data. Created a user interface with Dash and Plotly for tracking an invoice signed by the doctor via the pharmacy and covered by insurance"
+    },
+    {
+        "Class": "Skills",
+        "Confidence": 0.89709,
+        "Extracted_text": "FUNDAMENTAL SKILLS Programming Languages: Python, Java DataBases Mangment: SQL Visualizations Tools PowerBI, Excel Cloud Technologies: Docker, CI/CD, Git, Azure Machine Learning French B2 English B2 Spanish"
+    },
+    {
+        "Class": "Email",
+        "Confidence": 0.87046,
+        "Extracted_text": "Chammemiyahia@gmail.com"
+    },
+    {
+        "Class": "Phone",
+        "Confidence": 0.85285,
+        "Extracted_text": "+216 - 46 29 1123"
+    },
+    {
+        "Class": "Name",
+        "Confidence": 0.84947,
+        "Extracted_text": "Chammami Yahia"
+    },
+    {
+        "Class": "Profil",
+        "Confidence": 0.69765,
+        "Extracted_text": "Data Scientist A | Engineer"
+    },
+    {
+        "Class": "Adresse",
+        "Confidence": 0.67665,
+        "Extracted_text": "Ariana , Tunisie"
+    },
+    {
+        "Class": "Certifications",
+        "Confidence": 0.57735,
+        "Extracted_text": "CERTIFICATES AND COURSES Deep Learning_Specialization IBM Data Science Professional Certificate DataCamp Professional Data Scientist DataCamp Professional Data Analyst"
+    },
+    {
+        "Class": "Email",
+        "Confidence": 0.26659,
+        "Extracted_text": "Yahia Chammami Linkedln"
+    }
+]

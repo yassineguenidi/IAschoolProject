@@ -1,0 +1,62 @@
+[
+    {
+        "Class": "invoice number",
+        "Confidence": 0.86326,
+        "Extracted_text": "FA2O-00000004"
+    },
+    {
+        "Class": "invoice date",
+        "Confidence": 0.84836,
+        "Extracted_text": "05/10/2022"
+    },
+    {
+        "Class": "total",
+        "Confidence": 0.83339,
+        "Extracted_text": "37,490 TND"
+    },
+    {
+        "Class": "Tax",
+        "Confidence": 0.80553,
+        "Extracted_text": "5,890 TND"
+    },
+    {
+        "Class": "Subtotal",
+        "Confidence": 0.79446,
+        "Extracted_text": "31,000 TND"
+    },
+    {
+        "Class": "Name_Client",
+        "Confidence": 0.78895,
+        "Extracted_text": "garagiste"
+    },
+    {
+        "Class": "Tax",
+        "Confidence": 0.77879,
+        "Extracted_text": "0,600 TND"
+    },
+    {
+        "Class": "header",
+        "Confidence": 0.74228,
+        "Extracted_text": "Reference D\u00e9signation Qt\u00e9 PU H:T TVA REM % Total HT"
+    },
+    {
+        "Class": "Tax_Precentage",
+        "Confidence": 0.67101,
+        "Extracted_text": "19,0"
+    },
+    {
+        "Class": "Products",
+        "Confidence": 0.57224,
+        "Extracted_text": "34608 Huile pour bo\u00eete automatique 31,000 TVA19% 31,000"
+    },
+    {
+        "Class": "billing address",
+        "Confidence": 0.43723,
+        "Extracted_text": "Email: aiaida.wajdi@gmail.com Site: www.aaaaaaaa.tn"
+    },
+    {
+        "Class": "Name_Client",
+        "Confidence": 0.3873,
+        "Extracted_text": "T\u00e9l: (+331) 84204500000"
+    }
+]

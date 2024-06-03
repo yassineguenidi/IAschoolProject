@@ -1,0 +1,57 @@
+[
+    {
+        "Class": "Products",
+        "Confidence": 0.96162,
+        "Extracted_text": "RT329 Circuit \u00e0 Flux Continu Fisher&Paykel 5 125,000 625,000 RT329 Circuit \u00e0 Flux Continu Fisher&Paykel 2 125,000 250,000 RT329 Circuit \u00e0 Flux Continu Fisher&Paykel 8 125,000 1000,000 RT329 Circuit \u00e0 Flux Continu Fisher&Paykel 3 125,000 375,000 RT329 Circuit \u00e0 Flux Continu Fisher&Paykel 3 125,000 375,000 RT329 Circuit \u00e0 Flux Continu Fisher&Paykel 5 125,000 625,000 RT329 Circuit \u00e0 Flux Continu Fisher&Paykel 6 125,000 750,000 Circuit Doublement Chauff\u00e9 Pour Respirateur SLE Fisher RT268 6 130,000 780,000 and Paykel"
+    },
+    {
+        "Class": "Tax",
+        "Confidence": 0.88367,
+        "Extracted_text": "1,000 TND"
+    },
+    {
+        "Class": "invoice number",
+        "Confidence": 0.85568,
+        "Extracted_text": "FA24-00000213"
+    },
+    {
+        "Class": "total",
+        "Confidence": 0.85135,
+        "Extracted_text": "5115,600 TND"
+    },
+    {
+        "Class": "Subtotal",
+        "Confidence": 0.84784,
+        "Extracted_text": "4780,000 TND"
+    },
+    {
+        "Class": "header",
+        "Confidence": 0.77951,
+        "Extracted_text": "Reference D\u00e9signation Qt\u00e9 PU H:T TVA % Total HT"
+    },
+    {
+        "Class": "invoice date",
+        "Confidence": 0.76407,
+        "Extracted_text": "24/02/2024"
+    },
+    {
+        "Class": "Tax_Precentage",
+        "Confidence": 0.68288,
+        "Extracted_text": "7,0"
+    },
+    {
+        "Class": "invoice date",
+        "Confidence": 0.48317,
+        "Extracted_text": "0001743PAMOOO"
+    },
+    {
+        "Class": "Tax",
+        "Confidence": 0.42103,
+        "Extracted_text": "334,600 TND 1.000 TND"
+    },
+    {
+        "Class": "Tax",
+        "Confidence": 0.28368,
+        "Extracted_text": "334,600 TND"
+    }
+]

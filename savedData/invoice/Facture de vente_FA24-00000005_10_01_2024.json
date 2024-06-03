@@ -1,0 +1,57 @@
+[
+    {
+        "Class": "Products",
+        "Confidence": 0.8714,
+        "Extracted_text": "Com facture STEG & SONEDE 2022 Com sur paiement facture STEG & SONEDE 2022 179 0,400 TVAO% 71,600 \nCom facture STEG & SONEDE 2022 Com facture STEG & SONEDE 2023 6767 0,400 TVAO% 2706,800"
+    },
+    {
+        "Class": "Subtotal",
+        "Confidence": 0.85495,
+        "Extracted_text": "2778,400 TND"
+    },
+    {
+        "Class": "total",
+        "Confidence": 0.84862,
+        "Extracted_text": "2778,400 TND"
+    },
+    {
+        "Class": "Tax",
+        "Confidence": 0.83637,
+        "Extracted_text": "0,000 TND"
+    },
+    {
+        "Class": "invoice date",
+        "Confidence": 0.83304,
+        "Extracted_text": "10/01/2024"
+    },
+    {
+        "Class": "Tax",
+        "Confidence": 0.82859,
+        "Extracted_text": "0,000 TND"
+    },
+    {
+        "Class": "invoice number",
+        "Confidence": 0.78573,
+        "Extracted_text": "FA24-00000005"
+    },
+    {
+        "Class": "Name_Client",
+        "Confidence": 0.73908,
+        "Extracted_text": "SMT Mon\u00e9tique Tunisie"
+    },
+    {
+        "Class": "header",
+        "Confidence": 0.71498,
+        "Extracted_text": "Reference D\u00e9signation Qt\u00e9 PU/HT TVA Total HT"
+    },
+    {
+        "Class": "Tax_Precentage",
+        "Confidence": 0.70605,
+        "Extracted_text": "0,0%"
+    },
+    {
+        "Class": "billing address",
+        "Confidence": 0.2912,
+        "Extracted_text": "Centre urbain Nord, Sana Center, bloc \u20ac _ 1082 Tunis"
+    }
+]

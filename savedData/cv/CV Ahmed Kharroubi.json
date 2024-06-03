@@ -1,0 +1,77 @@
+[
+    {
+        "Class": "Education",
+        "Confidence": 0.95524,
+        "Extracted_text": "CURSUS SCOLAIRE Cycle ingenieur :Informatique Appliquee Ecole Nationale d'Ingenieurs de Sousse (ENISO) 2017 _ Present Sousse Diplome en Mathematique et Physique Institut preparatoire aux etudes d'ingenieurs de Monastir (IPEIM) 2015 - 2017 Rang dans le Concours Nationale :600/2100 Baccalaureat en Mathematique Lycee Bennane-Bodheur 2014-2015 Moyenne :15.45/20"
+    },
+    {
+        "Class": "Skills",
+        "Confidence": 0.93812,
+        "Extracted_text": "COMPETENCES developpment:_ Html /css Java Script Angular Spring Boot ASPNet MVC PHP Android Programmation Java Python | € | C#t (JavaScript [ Assembly Base de Donnees:_ MySQL SQlLite | PostgrSQl Microsoft SQL server Tools&IDE: Visual Studio2017 intellij IDEA Android Studio Jupyter notebook Eclipse NetBeans Agile Git/GitLab Docker Systeme Embarquee _ Arduino ,STM 32,Robot KUKA"
+    },
+    {
+        "Class": "Image",
+        "Confidence": 0.92847,
+        "Extracted_text": ""
+    },
+    {
+        "Class": "Interests",
+        "Confidence": 0.9127,
+        "Extracted_text": "CENTRES D'INTERET Tennis BodyBuilding"
+    },
+    {
+        "Class": "Experience",
+        "Confidence": 0.90505,
+        "Extracted_text": "EXPERIENCE Stage Ingenieur: Intelligence Artificielle Talan Tunisie € 07/2019 _ 09/2019 Tunis taches Creation d'un model pour predire les maladies a partir du symptomes et le deployer en API Technologies:Python,Pandas,Scikit,Flask,DialogFlow Stage d'Initiation : Stage Developpment Tunipages € 07/2018 08/2018 Monastir taches: realiseation d\" une application CRUD Technologies:Angular,SpringBoot,PostgreSQL,Intellij"
+    },
+    {
+        "Class": "Languages",
+        "Confidence": 0.8976,
+        "Extracted_text": "LANGUES English Frensh B2 B2 German A2"
+    },
+    {
+        "Class": "Name",
+        "Confidence": 0.86964,
+        "Extracted_text": "Ahmed Kharroubi"
+    },
+    {
+        "Class": "Email",
+        "Confidence": 0.85269,
+        "Extracted_text": "ahmeed kharroubi@gmailcom"
+    },
+    {
+        "Class": "Profil",
+        "Confidence": 0.85007,
+        "Extracted_text": "Eleve Ingenieur en Informatique Appliquee a la recherche d'un stage PFE"
+    },
+    {
+        "Class": "Phone",
+        "Confidence": 0.84878,
+        "Extracted_text": "+216 55 234679"
+    },
+    {
+        "Class": "Certifications",
+        "Confidence": 0.72072,
+        "Extracted_text": "CERTIFICATION ~Machine Learning And Deep Learning Andrew ng- Standford University ~Hyperparameter tunning regularization and optimization Andrew Ng IBM Cloud Application Developer 2019 (09/2019 _ Present)"
+    },
+    {
+        "Class": "LinkedIn",
+        "Confidence": 0.51174,
+        "Extracted_text": "linkedin com/in/ahmed-kharroubi-a544a5151"
+    },
+    {
+        "Class": "Projects",
+        "Confidence": 0.4886,
+        "Extracted_text": "PROJET ACADEMIQUES Web Scraping Application (10/2019 _ Present) Technologies: Jsoup,Java , SpringBoo,jpa,angular Projet E-Commerce avec ASPNET MVC (01/2019 _ 03/2019) KeyWord:C#,Ajax,CRUD,Microsoft SQL Server;Data Validation_ Projet Developpement mobile Transport Tracker (01/2018 03/2018) Developper une application tracker le mouvement des vehicules_ Technologies: Java Android Studio,PHP; Xaamp- pour"
+    },
+    {
+        "Class": "Adresse",
+        "Confidence": 0.44246,
+        "Extracted_text": "Rue 18 Janvier -Bennane-5025, Monastir; Tunisia"
+    },
+    {
+        "Class": "Github",
+        "Confidence": 0.30302,
+        "Extracted_text": "github com/kharroubi1"
+    }
+]

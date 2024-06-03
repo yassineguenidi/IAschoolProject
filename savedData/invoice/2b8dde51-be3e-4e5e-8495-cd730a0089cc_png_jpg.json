@@ -1,0 +1,134 @@
+[
+    {
+        "bbox": [
+            60.70361328125,
+            228.60690307617188,
+            587.3142700195312,
+            289.0967102050781
+        ],
+        "confidence": 0.9128,
+        "class_name": "Products",
+        "extracted_text": "Fion TaatDnae cablas J00 OC Ncwict nodalan? 15-00 40.00 Lubor Snn 45.00"
+    },
+    {
+        "bbox": [
+            554.803955078125,
+            126.9452133178711,
+            595.4075927734375,
+            137.33815002441406
+        ],
+        "confidence": 0.88407,
+        "class_name": "invoice number",
+        "extracted_text": "US 001"
+    },
+    {
+        "bbox": [
+            59.6375732421875,
+            205.25108337402344,
+            588.5735473632812,
+            224.99647521972656
+        ],
+        "confidence": 0.87864,
+        "class_name": "header",
+        "extracted_text": "DESCRIPTION UNIT PRICE AMOUNT"
+    },
+    {
+        "bbox": [
+            537.8928833007812,
+            174.00303649902344,
+            596.9315795898438,
+            184.30567932128906
+        ],
+        "confidence": 0.86994,
+        "class_name": "Due_Date",
+        "extracted_text": "20/022019"
+    },
+    {
+        "bbox": [
+            533.6404418945312,
+            334.4657287597656,
+            586.0704956054688,
+            348.2730407714844
+        ],
+        "confidence": 0.86396,
+        "class_name": "total",
+        "extracted_text": "S154.06"
+    },
+    {
+        "bbox": [
+            539.1412963867188,
+            142.43814086914062,
+            597.7116088867188,
+            152.59426879882812
+        ],
+        "confidence": 0.85856,
+        "class_name": "invoice date",
+        "extracted_text": "11/02/2019"
+    },
+    {
+        "bbox": [
+            416.1665344238281,
+            316.2274475097656,
+            446.5622253417969,
+            325.2333679199219
+        ],
+        "confidence": 0.84964,
+        "class_name": "Tax_Precentage",
+        "extracted_text": ""
+    },
+    {
+        "bbox": [
+            45.17497253417969,
+            140.316650390625,
+            104.47618103027344,
+            151.489013671875
+        ],
+        "confidence": 0.84568,
+        "class_name": "Name_Client",
+        "extracted_text": "Jonn Smith"
+    },
+    {
+        "bbox": [
+            561.9432373046875,
+            316.0628662109375,
+            586.380615234375,
+            325.631591796875
+        ],
+        "confidence": 0.83923,
+        "class_name": "Tax",
+        "extracted_text": "9.08"
+    },
+    {
+        "bbox": [
+            550.3986206054688,
+            296.59185791015625,
+            586.7224731445312,
+            306.06695556640625
+        ],
+        "confidence": 0.83324,
+        "class_name": "Subtotal",
+        "extracted_text": ""
+    },
+    {
+        "bbox": [
+            218.99542236328125,
+            151.33824157714844,
+            336.21826171875,
+            173.96205139160156
+        ],
+        "confidence": 0.82018,
+        "class_name": "shipping address",
+        "extracted_text": "4787 Pincyci Deivc Cambrdge NA17710"
+    },
+    {
+        "bbox": [
+            43.11454391479492,
+            151.44601440429688,
+            151.87913513183594,
+            173.56362915039062
+        ],
+        "confidence": 0.8186,
+        "class_name": "billing address",
+        "extracted_text": "coun *quatc Nov NY 12710 4Of"
+    }
+]

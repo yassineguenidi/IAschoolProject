@@ -1,0 +1,67 @@
+[
+    {
+        "Class": "Resume",
+        "Confidence": 0.91718,
+        "Extracted_text": "BIO Nicely looking designs and lightweight front-end applications is what like doing the most; am capable of developing a complete Server-side application specially Restfull APIs using Nodejs and Expressls."
+    },
+    {
+        "Class": "Image",
+        "Confidence": 0.90422,
+        "Extracted_text": "PAc-MA 8hz"
+    },
+    {
+        "Class": "Education",
+        "Confidence": 0.88456,
+        "Extracted_text": "EDUCATION Computer Technologies, 2020 present Gafsa, Tunisia Higher Institute of Technological Studies Full Stack JavaScript; Treehouse [Z Mar 2021 Jan 2022 Sep"
+    },
+    {
+        "Class": "Experience",
+        "Confidence": 0.86457,
+        "Extracted_text": "PROFESSIONAL EXPERIENCE Academic Project, Udemy Jun 2022 Oct 2022 ~Build a powerful MERN Stack E-Commerce application using React; Redux, Nodejs, Express, MongoDB; Stripe from development to deplovment; Front End Developer Intern, Genius soft Jul 2021 Jul 2021 Gafsa, El-Guettar ~Design and develop responsive Ul using Reactis."
+    },
+    {
+        "Class": "Name",
+        "Confidence": 0.8507,
+        "Extracted_text": "Ali Taleb"
+    },
+    {
+        "Class": "Phone",
+        "Confidence": 0.75598,
+        "Extracted_text": "+216 58 152 462"
+    },
+    {
+        "Class": "Skills",
+        "Confidence": 0.74531,
+        "Extracted_text": "SKILLS JavaScript Nodejs Reactis Expressjs MongoDB Mongoose"
+    },
+    {
+        "Class": "Profil",
+        "Confidence": 0.55503,
+        "Extracted_text": "Junior Full Stack Developer"
+    },
+    {
+        "Class": "Email",
+        "Confidence": 0.54263,
+        "Extracted_text": "alimedtaleb@gmail.com"
+    },
+    {
+        "Class": "Interests",
+        "Confidence": 0.53217,
+        "Extracted_text": "HOBBIES Gaming Football"
+    },
+    {
+        "Class": "Certifications",
+        "Confidence": 0.34055,
+        "Extracted_text": "CERTIFICATES Responsive Web Design JavaScript Algorithms Front End Libraries and Data Structures 0 (React and Redux) , Data Visualization [ Udemv- MERN Stack Ecommerce Application"
+    },
+    {
+        "Class": "Languages",
+        "Confidence": 0.32215,
+        "Extracted_text": "LANGUAGES Arabic English Native Intermediate French intermediate"
+    },
+    {
+        "Class": "Adresse",
+        "Confidence": 0.27353,
+        "Extracted_text": "2180 El-Guettar; Tunisia"
+    }
+]

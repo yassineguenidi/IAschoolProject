@@ -1,0 +1,172 @@
+{
+    "detections": [
+        {
+            "bbox": [
+                74.29615020751953,
+                965.276611328125,
+                570.0084228515625,
+                1583.2667236328125
+            ],
+            "confidence": 0.9454,
+            "class_name": "Education",
+            "extracted_text": "EDUCATION Ingénierie des Données et Systèmes Décisionnels École Nationale d'Electronique et des Télécommunications de Sfax 2021 En cours Licence Fondamentale en Informatique Faculté des Sciences de Monastir 2018 2021 Baccalauréat Lycée Remada, Tataouine 2018"
+        },
+        {
+            "bbox": [
+                136.02194213867188,
+                720.3528442382812,
+                498.86822509765625,
+                761.171142578125
+            ],
+            "confidence": 0.9139,
+            "class_name": "Email",
+            "extracted_text": "Yassineguenidi99@gmail.com"
+        },
+        {
+            "bbox": [
+                658.29052734375,
+                253.94717407226562,
+                1622.7236328125,
+                441.24395751953125
+            ],
+            "confidence": 0.89867,
+            "class_name": "Resume",
+            "extracted_text": "Titulaire d'une licence en informatique; Jintègre un cycle d'ingénieur auquel j'approfondis mes compétences en Data Science. Mon parcours combine une solide base en informatique avec une expertise en analyse de données; apprentissage automatique et traitement de données; à être mis au service de projets stimulants. prêt"
+        },
+        {
+            "bbox": [
+                641.0914306640625,
+                97.51045227050781,
+                1639.714111328125,
+                242.09292602539062
+            ],
+            "confidence": 0.88847,
+            "class_name": "Profil",
+            "extracted_text": "Etudiant ingénieur à Ia recherche d'une alternance en Data Science pour une ée Un 0 année"
+        },
+        {
+            "bbox": [
+                811.9681396484375,
+                11.104541778564453,
+                1461.580322265625,
+                96.51826477050781
+            ],
+            "confidence": 0.88384,
+            "class_name": "Name",
+            "extracted_text": "GUENIDI Yassine"
+        },
+        {
+            "bbox": [
+                168.7056884765625,
+                33.41420364379883,
+                447.6968994140625,
+                414.7616882324219
+            ],
+            "confidence": 0.8802,
+            "class_name": "Image",
+            "extracted_text": ""
+        },
+        {
+            "bbox": [
+                142.84945678710938,
+                659.727783203125,
+                387.9610900878906,
+                700.50390625
+            ],
+            "confidence": 0.87202,
+            "class_name": "Phone",
+            "extracted_text": "+216 22 344 203"
+        },
+        {
+            "bbox": [
+                136.90911865234375,
+                778.5357055664062,
+                488.47515869140625,
+                859.99853515625
+            ],
+            "confidence": 0.86194,
+            "class_name": "LinkedIn",
+            "extracted_text": "www.linkedin.com/in/yas sine-guenidi-66450119a"
+        },
+        {
+            "bbox": [
+                81.19173431396484,
+                1604.9705810546875,
+                550.2161254882812,
+                1993.6529541015625
+            ],
+            "confidence": 0.85604,
+            "class_name": "Skills",
+            "extracted_text": "HARD SKILLS Analyse de Données Machine Learning Deep Learning Visualisation de Données Traitement du Langage Naturel (NLP) Big Data Bases de Données"
+        },
+        {
+            "bbox": [
+                631.6761474609375,
+                415.88848876953125,
+                1608.5281982421875,
+                1997.1649169921875
+            ],
+            "confidence": 0.81871,
+            "class_name": "Experience",
+            "extracted_text": "service de projets stimulants EXPERIENCES PERTINENTES Projet de fin détudes Février 2024 Juin 2024 Spark It Sfax Elaboré Par Mr Louati Mahdi & Mme Yosra Tayari Sujet: Extraction des données pertinentes du Factures et Cvs en Utilisant F'IA Jai  réussi développer un projet utilisant le deep learning et la vision par ordinateur pour extraire efficacement des données à partir de CV et de factures; simplifiant ainsi cette tâche complexe Mots Clés: Python; Yolov5, Computer Vision; Object Detection; OCR, Tesseract Juillet 2023 Aout 2023 Stage dété Alfaplus Medenine Elaboré Par Mr Thabti Salem Sujet: Projet Gestion de Stocks et Prévision Temporelle pour ALFAPLUS J'ai dirigé avec succès le projet de Gestion de Stocks et Prévision Temporelle pour ALFAPLUS, améliorant l'efficacité opérationnelle et réduisant les coûts de stockage à un système de gestion de stocks amélioré et à des techniques de prévision avancées_ Mots Clés: PHP , Forecasting, Timeseries, ARIMA, SARIMA, LSTM, Preprocessing Projet de fin d'année Février 2023 Mai 2023 École Nationale d'Electronique et des Télécommunications Sfax Elaboré Par Pr Louati Mahdi Sujet Optimisation du processus de recrutement grâce à la manipulation de CV: Étude, Analyse et Réalisation Ce projet en cours vise à simplifier le processus de recrutement en utilisant le traitement du langage naturel (NLP) pour extraire des informations essentielles des CV des candidats. Il permet aux RH de sélectionner plus efficacement les meilleurs candidats en fonction des besoins de lentreprise Mots Clés: IA, NLP; classification; decision Making; Information Extraction; Stage dété Aout 2022 Attijari Banque Remada Elaboré Par Mr Elarbi Wajdi Sujet:  Prédiction de prêt à l'aide de Machine Learning Lors de mon stage d'été en banque; j'ai créé une application web utilisant le Machine Learning pour prédire l'approbation des prêts; améliorant ainsi le processus décisionnel bancaire: Keys: Preprocessing Machine Learning, Finance; Streamlit; Web, Data; Projet de fin d'études Février 2021 Juin 2021 Faculté des Sciences Monastir Elaboré Par Pr Zrigui Mounir Sujet: Conception et réalisation dune application mobile pour la géolocalisation et de réservation de véhicules en ligne. Ce projet développe une application mobile pour géolocaliser et réserver des véhicules en ligne; facilitant ainsi la mobilité urbaine et l'accès aux véhicules partagés pour une meilleure efficacité des déplacements en ville grâce"
+        },
+        {
+            "bbox": [
+                84.43553161621094,
+                2014.812744140625,
+                442.8252258300781,
+                2305.869384765625
+            ],
+            "confidence": 0.75346,
+            "class_name": "Skills",
+            "extracted_text": "SOFT SKILLS Résolution de Problèmes Communication Esprit analytique & Créatif Curiosité Intellectuelle"
+        },
+        {
+            "bbox": [
+                634.8712768554688,
+                2028.7176513671875,
+                1612.2344970703125,
+                2339.836669921875
+            ],
+            "confidence": 0.46958,
+            "class_name": "Skills",
+            "extracted_text": "CERTICATIONS Coursera (Data Science Specialization; Machine Learning/Deep Learning Data Analytics; Data Analysis SOLOLEARN (C/C++, C#, JAVA, Python, Machine Learning) DATACAMP (Python; R, SQL, Machine Learning) KAGGLE(Intermediate level) Google Data Analytics Professional Certificate IBM Data Science Professional Certificate"
+        },
+        {
+            "bbox": [
+                138.13453674316406,
+                882.140625,
+                459.8572692871094,
+                925.437744140625
+            ],
+            "confidence": 0.35537,
+            "class_name": "Naissance",
+            "extracted_text": "cité Ons, Sfax, Tunisie"
+        },
+        {
+            "bbox": [
+                134.80076599121094,
+                881.9074096679688,
+                451.5080871582031,
+                928.3729858398438
+            ],
+            "confidence": 0.27403,
+            "class_name": "Adresse",
+            "extracted_text": "cité Ons, Sfax, Tunisie"
+        }
+    ],
+    "summary": {
+        "Education": "En cours Licence Fondamentale en Informatique Faculté des Sciences de Monastir 2018 2021 Baccalauréat Lycée Remada, Tataouine 2018",
+        "Email": "Yassineguenidi99@gmail.com is a freelance writer based in texas .",
+        "Resume": "intègre un cycle d'ingénieur auquel j'approfondis mes compétences en Data Science . mon parcours combine une solide base en informatique avec une expertise en analyse de données; apprentissage automatique ",
+        "Profil": "0 année ingénieur à Ia recherche d'une alternance en Data Science pour une ée Un 0 an .",
+        "Name": "GUENIDI Yassine: guenidi yassines: GUeni di sasine .",
+        "Image": ". - (EL) - -________________________ -______________________ __ ________",
+        "Phone": "+216 22 344 203 / fax: +216 2 234 203 02 . e-mail: info@aol.com .",
+        "LinkedIn": "www.linkedin.com/in/yas sine-guenidi-66450119a .",
+        "Skills": "KAGGLE (Intermediate level) Google Data Analytics Professional Certificate IBM Data Science Professional Certificate . DATACAMP (python; R, SQL, Machine Learning)",
+        "Experience": "d'études en géolocalisation et de réservation en ligne . projet en cours vise à simplifier le processus de recrutement . utilisant le traitement du langage naturel (N",
+        "Naissance": "cité Ons, Sfax, Tunisie . citée Ons: cité ons, cité .",
+        "Adresse": "cité Ons, Sfax, Tunisie . citée Ons: cité ons, cité ."
+    }
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "Class": "Experience",
+        "Confidence": 0.96922,
+        "Extracted_text": "EXPERIENCES PERTINENTES Stage d'été Juillet 2023 Aout 2023 Alfaplus Medenine Elaboré Par Mr Thabti Salem Sujet: Projet Gestion de Stocks et Prévision Temporelle pour ALFAPLUS Jai   dirigé avec succès le  projet de Gestion de Stocks et Prévision Temporelle pour ALFAPLUS; améliorant l'efficacité opérationnelle et réduisant les coûts de stockage grâce à un système de gestion de stocks amélioré et à des techniques de prévision avancées. Projet de fin dannée Février 2023 Mai 2023 École Nationale dElectronique et des Télécommunications Sfax Elaboré Par Pr Loueti Mahdi Sujet Optimisation du processus de recrutement grâce à la manipulation de CV: Étude; Analyse et Réalisation Ce projet en cours vise à simplifier le processus de recrutement en utilisant le traitement du langage naturel (NLP) pour extraire des informations essentielles des CV des candidats. II permet aux RH de sélectionner plus efficacement les meilleurs candidats en fonction des besoins de l'entreprise. Stage dété Aout 2022 Attijari Banque Remada Elaboré Par Mr Elarbi Wajdi Sujet: prédiction de à l'aide de Machine Learning Lors de mon stage d'été en banque; j'ai créé une application web utilisant le Machine Learning pour  prédire l'approbation des prêts, améliorant ainsi le processus décisionnel bancaire Projet de fin détudes Février 2021 Juin 2021 Faculté des Sciences Monastir Elaboré Par Pr Zrigui Mounir Sujet: conception et réalisation d'une application mobile pour la géolocalisation et de réservation de véhicules en ligne. Ce projet développe une appli mobile pour géolocaliser et réserver des véhicules en ligne; facilitant ainsi la mobilité urbaine et l'accès aux véhicules partagés pour une meilleure efficacité des déplacements en ville. prêt"
+    },
+    {
+        "Class": "Resume",
+        "Confidence": 0.93727,
+        "Extracted_text": "Titulaire d'une licence en informatique; j'ai approfondi mes compétences en data science au niveau d'un cycle d'ingénieur. Mon parcours combine une solide base en informatique avec une expertise en analyse de données; apprentissage automatique et traitement de données; à être mis au service de projets stimulants. prêt"
+    },
+    {
+        "Class": "Image",
+        "Confidence": 0.9361,
+        "Extracted_text": ""
+    },
+    {
+        "Class": "Education",
+        "Confidence": 0.93437,
+        "Extracted_text": "EDUCATION Ingénierie des Données et Systèmes Décisionnels École Nationale dElectronique et des Télécommunications de Sfax 2021 En cours Licence Fondamentale en Informatique Faculté des Sciences de Monastir 2018 2021 Baccalauréat Lycée Remada, Tataouine 2018"
+    },
+    {
+        "Class": "Skills",
+        "Confidence": 0.92646,
+        "Extracted_text": "SKILLS Analyse de Données Machine Learning Deep Learning Visualisation de Données Traitement du Langage Naturel (NLP) Big Data Bases de Données Résolution de Problèmes Communication"
+    },
+    {
+        "Class": "Phone",
+        "Confidence": 0.8633,
+        "Extracted_text": "+216 22 344 203"
+    },
+    {
+        "Class": "Email",
+        "Confidence": 0.84914,
+        "Extracted_text": "yassineguenidi99@gmail. com"
+    },
+    {
+        "Class": "Profil",
+        "Confidence": 0.84448,
+        "Extracted_text": "Elève ingénieur à Ia recherche d'un stage en DATA SCIENCE"
+    },
+    {
+        "Class": "Name",
+        "Confidence": 0.79281,
+        "Extracted_text": "Guenidi Yassine"
+    },
+    {
+        "Class": "LinkedIn",
+        "Confidence": 0.54898,
+        "Extracted_text": "www.linkedin.com/in/yas sine-guenidi-66450119a"
+    },
+    {
+        "Class": "Adresse",
+        "Confidence": 0.50555,
+        "Extracted_text": "cité Ons, Sfax, Tunisie"
+    },
+    {
+        "Class": "Certifications",
+        "Confidence": 0.46996,
+        "Extracted_text": "CERTICATIONS Coursera (Data Science Specialization; Machine Learning/Deep Learning, Data Analytics, Data Analysis ) SOLOLEARN (C/C++, C#, JAVA Python; Machine Learning) DATACAMP (Python; R; SQL, Machine Learning) KAGGLE(Intermediate level) Google Data Analytics Professional Certificate IBM Data Science Professional Certificate"
+    }
+]

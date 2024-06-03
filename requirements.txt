@@ -1,0 +1,6 @@
+streamlit_authenticator==0.1.5
+
+
+deta==1.1.0
+
+python-dotenv==0.21.0

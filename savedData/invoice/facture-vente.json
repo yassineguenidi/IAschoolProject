@@ -1,0 +1,62 @@
+[
+    {
+        "Class": "Products",
+        "Confidence": 0.95742,
+        "Extracted_text": "MogeMosu simply dummy text of the 35000 150 00 pontinz anc Eypesetting industry- Article Lorem losum simply dummy text of the 120 00 840,00 printin? andtypesetting industrye Article MogeMogu dummutextoftle 360,00 88o 00 printing Eypesetting industry Article oremiosuM dummvtext ofthe 77 01 pnntinz andtypesettingindustry Article Lorem losum simply dummy text of the 15 00 225,00 Printing andtypesetting industry Article MogeMogun simply dummy text of the 100 00 pnngng andtypesettingindustry SimpI simpI"
+    },
+    {
+        "Class": "header",
+        "Confidence": 0.85421,
+        "Extracted_text": "QTE DESIGNATION PRIX_UNIT MONTANT"
+    },
+    {
+        "Class": "total",
+        "Confidence": 0.84142,
+        "Extracted_text": "8 233,08 €"
+    },
+    {
+        "Class": "Due_Date",
+        "Confidence": 0.83036,
+        "Extracted_text": "14/10/2023"
+    },
+    {
+        "Class": "shipping address",
+        "Confidence": 0.80667,
+        "Extracted_text": "Code Posta Numero téléphone Emai"
+    },
+    {
+        "Class": "Subtotal",
+        "Confidence": 0.76243,
+        "Extracted_text": "7 222,00"
+    },
+    {
+        "Class": "invoice number",
+        "Confidence": 0.75077,
+        "Extracted_text": "id-205"
+    },
+    {
+        "Class": "Tax",
+        "Confidence": 0.74756,
+        "Extracted_text": "1011,08"
+    },
+    {
+        "Class": "Tax_Precentage",
+        "Confidence": 0.60828,
+        "Extracted_text": "14%\n"
+    },
+    {
+        "Class": "invoice date",
+        "Confidence": 0.60253,
+        "Extracted_text": "14/09/2023"
+    },
+    {
+        "Class": "Name_Client",
+        "Confidence": 0.5504,
+        "Extracted_text": "Nom rentreprise"
+    },
+    {
+        "Class": "billing address",
+        "Confidence": 0.43336,
+        "Extracted_text": "Code Postal Ville Numero de telephone"
+    }
+]
