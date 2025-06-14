@@ -1,6 +1,8 @@
 from PIL import Image
 import streamlit as st
 
+import requests
+
 def principale():
     st.title("Welcome Back")
     st.subheader("This application is designed to help to extract automatically informations from invoices and Resumes:")
