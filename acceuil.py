@@ -54,7 +54,7 @@ def display_contact_section():
     st.header("Contact Us")
     st.write("If you have any questions or feedback about this application, please feel free to contact us at:")
     st.write("- Email: yassinegunidi99@email.com")
-    st.write("- Phone: +216 22 344 203")
+    st.write("- Phone: +33 7 73 66 75 60")
 
 def display_form():
 
