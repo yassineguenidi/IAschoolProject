@@ -30,14 +30,39 @@ def perform_ocr_on_image(image, language):
 
 @st.cache(allow_output_mutation=True)
 def load_model():
-    model_path = r'C:\Users\yassi\PycharmProjects\PfeProject\model\invoice\bestLV3.pt'
-    model = torch.hub.load(r'C:\Users\yassi\PycharmProjects\PfeProject\yolov5\yolov5',
+    # https://drive.google.com/file/d/1mzm7SWktezu7po1kkhLN6r0SE54bUIQB/view?usp=drive_link
+    # ID du fichier Google Drive
+    # file_id = '1yPkUMVGGCOMb3lEdVbz3x7gWBhcyV7Ei'
+    file_id = '1mzm7SWktezu7po1kkhLN6r0SE54bUIQB'
+    download_url = f'https://drive.google.com/uc?id={file_id}'
+
+    # Chemin local pour sauvegarder le modèle
+    model_filename = 'bestLV3.pt'
+
+    # Télécharger le modèle s’il n'existe pas déjà
+    if not os.path.exists(model_filename):
+        response = requests.get(download_url)
+        with open(model_filename, 'wb') as f:
+            f.write(response.content)
+
+    # Charger le modèle avec torch.hub
+    model = torch.hub.load('ultralytics/yolov5',  # dépôt GitHub officiel
                            'custom',
-                           path=model_path,
-                           source='local',
-                           force_reload=True
-                           )
+                           path=model_filename,
+                           source='github',
+                           force_reload=True)
+
     return model
+
+# def load_model():
+#     model_path = r'C:\Users\yassi\PycharmProjects\PfeProject\model\invoice\bestLV3.pt'
+#     model = torch.hub.load(r'C:\Users\yassi\PycharmProjects\PfeProject\yolov5\yolov5',
+#                            'custom',
+#                            path=model_path,
+#                            source='local',
+#                            force_reload=True
+#                            )
+#     return model
 
 def detect_objects(model, image):
     results = model(image)
