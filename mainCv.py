@@ -32,19 +32,42 @@ def perform_ocr_on_image(image, language):
 
 @st.cache(allow_output_mutation=True)
 def load_model():
-    model_path = r'C:\Users\yassi\PycharmProjects\PfeProject\model\cv\bestCvMoyenV3.pt'
-    # model_path = r'C:\Users\yassi\PycharmProjects\PfeProject\model\cv\bestMoyenCvV1.pt'
-    # model_path = r'C:\Users\yassi\PycharmProjects\PfeProject\model\cv\bestLargeCVLast70.pt'
-    model = torch.hub.load(r'C:\Users\yassi\PycharmProjects\PfeProject\yolov5\yolov5',
-                           'custom',
-                           path=model_path,
-                           source='local',
-                           force_reload=True
-                           )
+    # ID du fichier Google Drive
+    file_id = '1yPkUMVGGCOMb3lEdVbz3x7gWBhcyV7Ei'
+    download_url = f'https://drive.google.com/uc?id={file_id}'
 
-    # model.conf = 0.5
-    # model.iou = 0.1
+    # Chemin local pour sauvegarder le modèle
+    model_filename = 'bestCvMoyenV3.pt'
+
+    # Télécharger le modèle s’il n'existe pas déjà
+    if not os.path.exists(model_filename):
+        response = requests.get(download_url)
+        with open(model_filename, 'wb') as f:
+            f.write(response.content)
+
+    # Charger le modèle avec torch.hub
+    model = torch.hub.load('ultralytics/yolov5',  # dépôt GitHub officiel
+                           'custom',
+                           path=model_filename,
+                           source='github',
+                           force_reload=True)
+
     return model
+    
+# def load_model():
+#     model_path = r'C:\Users\yassi\PycharmProjects\PfeProject\model\cv\bestCvMoyenV3.pt'
+#     # model_path = r'C:\Users\yassi\PycharmProjects\PfeProject\model\cv\bestMoyenCvV1.pt'
+#     # model_path = r'C:\Users\yassi\PycharmProjects\PfeProject\model\cv\bestLargeCVLast70.pt'
+#     model = torch.hub.load(r'C:\Users\yassi\PycharmProjects\PfeProject\yolov5\yolov5',
+#                            'custom',
+#                            path=model_path,
+#                            source='local',
+#                            force_reload=True
+#                            )
+
+#     # model.conf = 0.5
+#     # model.iou = 0.1
+#     return model
 
 def detect_objects(model, image):
     results = model(image)
