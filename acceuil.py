@@ -112,7 +112,10 @@ def firstPart():
     with st.container():
         image_column, text_column = st.columns((1, 2))
         with image_column:
-            image = Image.open(r'C:\Users\yassi\PycharmProjects\PfeProject\images\cvcv.png')
+            image_url = "https://raw.githubusercontent.com/yassineguenidi/IAschoolProject/main/cvcv.png" 
+            response = requests.get(image_url)
+            image = Image.open(BytesIO(response.content))
+            # image = Image.open(r'C:\Users\yassi\PycharmProjects\PfeProject\images\cvcv.png')
             centered_container = st.container()
             with centered_container:
                 st.write("##")
@@ -139,7 +142,10 @@ def secondPart():
         image_column, text_column = st.columns((1, 2))
 
         with image_column:
-            image = Image.open(r'C:\Users\yassi\PycharmProjects\PfeProject\images\image_invoice.JPG')
+            image_url = "https://raw.githubusercontent.com/yassineguenidi/IAschoolProject/main/image_invoice.JPG" 
+            response = requests.get(image_url)
+            image = Image.open(BytesIO(response.content))
+            # image = Image.open(r'C:\Users\yassi\PycharmProjects\PfeProject\images\image_invoice.JPG')
             centered_container = st.container()
             with centered_container:
                 st.write("##")
