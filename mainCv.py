@@ -16,7 +16,7 @@ import sys
 sys.path.append('./yolov5')
 
 # from models.common import DetectMultiBackend 
-from models.common import DetectMultiBackend
+# from models.common import DetectMultiBackend
 # from yolov5.models.common import DetectMultiBackend
 
 from scipy.ndimage import median_filter
@@ -62,16 +62,16 @@ def load_model():
         with open(model_filename, 'wb') as f:
             f.write(response.content)
 
-    # Charger le modèle avec torch.hub
-    # model = torch.hub.load('ultralytics/yolov5',  # dépôt GitHub officiel
-    #                        'custom',
-    #                        path=model_filename,
-    #                        source='github',
-    #                        force_reload=True)
+    Charger le modèle avec torch.hub
+    model = torch.hub.load('ultralytics/yolov5',  # dépôt GitHub officiel
+                           'custom',
+                           path=model_filename,
+                           source='github',
+                           force_reload=True)
 
 
 
-    model = DetectMultiBackend(model_filename, device='cpu')  # 'cuda' si dispo
+    # model = DetectMultiBackend(model_filename, device='cpu')  # 'cuda' si dispo
 
     return model
     
