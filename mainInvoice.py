@@ -10,7 +10,9 @@ import pandas as pd
 import fitz
 import os
 import requests 
-import cv2 as cv
+# import cv2 as cv
+
+from scipy.ndimage import median_filter
 
 pathlib.PosixPath = pathlib.WindowsPath
 
