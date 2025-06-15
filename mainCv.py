@@ -15,7 +15,8 @@ import sys
 # import cv2 as cv
 sys.path.append('./yolov5')
 
-from models.common import DetectMultiBackend 
+# from models.common import DetectMultiBackend 
+from yolov5.models.common import DetectMultiBackend
 
 from scipy.ndimage import median_filter
 
