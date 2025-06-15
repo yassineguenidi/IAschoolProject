@@ -1,4 +1,3 @@
-import cv2
 import streamlit as st
 import torch
 from PIL import Image, ImageDraw
@@ -58,15 +57,6 @@ def load_model():
 
     return model
 
-# def load_model():
-#     model_path = r'C:\Users\yassi\PycharmProjects\PfeProject\model\invoice\bestLV3.pt'
-#     model = torch.hub.load(r'C:\Users\yassi\PycharmProjects\PfeProject\yolov5\yolov5',
-#                            'custom',
-#                            path=model_path,
-#                            source='local',
-#                            force_reload=True
-#                            )
-#     return model
 
 def detect_objects(model, image):
     results = model(image)
@@ -97,16 +87,6 @@ def preprocess_cropped_image(cropped_image):
     filtered = cv2.medianBlur(gray, 3)
 
     return filtered
-
-
-# Function to convert PDF to images
-# def pdf_to_images(pdf_file):
-#     images = []
-#     with st.spinner("Converting PDF to images..."):
-#         pdf_images = convert_from_bytes(pdf_file.read())
-#         for page in pdf_images:
-#             images.append(page)
-#     return images
 
 def pdf_to_images(uploaded_pdf):
     # Ouvre le PDF depuis les bytes uploadés
