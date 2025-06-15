@@ -12,3 +12,5 @@ fastapi
 uvicorn
 requests
 streamlit-authenticator
+PyMuPDF
+
