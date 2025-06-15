@@ -10,6 +10,7 @@ import pandas as pd
 import fitz
 import os
 import requests 
+import pytesseract
 # import cv2 as cv
 
 from scipy.ndimage import median_filter
@@ -26,13 +27,18 @@ def save_to_json_file(detections, image_filename):
         json.dump(detections, f,ensure_ascii=False, indent=4)
     st.success(f"Detection results saved to {json_filename}")
 
+# def perform_ocr_on_image(image, language):
+#     reader = easyocr.Reader([language])
+#     result = reader.readtext(np.array(image))
+#     text = []
+#     for detection in result:
+#         text.append(detection[1])
+#     return text
+
 def perform_ocr_on_image(image, language):
-    reader = easyocr.Reader([language])
-    result = reader.readtext(np.array(image))
-    text = []
-    for detection in result:
-        text.append(detection[1])
-    return text
+    image = image.convert('RGB')
+    extracted_text = pytesseract.image_to_string(image, lang=language)
+    return extracted_text.splitlines()
 
 @st.cache(allow_output_mutation=True)
 def load_model():
