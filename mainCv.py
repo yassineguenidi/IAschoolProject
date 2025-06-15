@@ -8,6 +8,7 @@ import numpy as np
 import easyocr
 import json
 import pandas as pd
+import fitz
 
 from pdf2image import convert_from_bytes
 from io import BytesIO
