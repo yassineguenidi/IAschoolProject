@@ -12,7 +12,7 @@ import fitz
 import os
 import requests
 
-from pdf2image import convert_from_bytes
+# from pdf2image import convert_from_bytes
 from io import BytesIO
 pathlib.PosixPath = pathlib.WindowsPath
 
@@ -57,20 +57,6 @@ def load_model():
 
     return model
     
-# def load_model():
-#     model_path = r'C:\Users\yassi\PycharmProjects\PfeProject\model\cv\bestCvMoyenV3.pt'
-#     # model_path = r'C:\Users\yassi\PycharmProjects\PfeProject\model\cv\bestMoyenCvV1.pt'
-#     # model_path = r'C:\Users\yassi\PycharmProjects\PfeProject\model\cv\bestLargeCVLast70.pt'
-#     model = torch.hub.load(r'C:\Users\yassi\PycharmProjects\PfeProject\yolov5\yolov5',
-#                            'custom',
-#                            path=model_path,
-#                            source='local',
-#                            force_reload=True
-#                            )
-
-#     # model.conf = 0.5
-#     # model.iou = 0.1
-#     return model
 
 def detect_objects(model, image):
     results = model(image)
