@@ -12,7 +12,7 @@ import os
 import requests 
 import pytesseract
 from io import BytesIO
-
+import sys
 # import cv2 as cv
 
 from scipy.ndimage import median_filter
