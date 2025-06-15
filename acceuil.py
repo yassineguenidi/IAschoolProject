@@ -153,7 +153,7 @@ def secondPart():
             centered_container = st.container()
             with centered_container:
                 st.write("##")
-                st.image(image, width=300, use_column_width=True)
+                st.image(image, width=300, use_container_width=True)
 
         with text_column:
             st.subheader("Invoice Parser")
