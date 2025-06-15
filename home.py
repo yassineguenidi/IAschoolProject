@@ -1,8 +1,8 @@
 # import streamlit as st
 
-# from acceuil import principale
-# from mainInvoice import mainInvoice
-# from mainCv import mainCV
+from acceuil import principale
+from mainInvoice import mainInvoice
+from mainCv import mainCV
 
 
 # def acceuil():
