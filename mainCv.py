@@ -10,6 +10,7 @@ import json
 import pandas as pd
 import fitz
 import os
+import requests
 
 from pdf2image import convert_from_bytes
 from io import BytesIO
