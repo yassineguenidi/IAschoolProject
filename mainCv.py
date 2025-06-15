@@ -98,12 +98,27 @@ def draw_boxes(image, detections):
 #     return filtered
 
 # Function to convert PDF to images
-def pdf_to_images(pdf_file):
+# def pdf_to_images(pdf_file):
+#     images = []
+#     with st.spinner("Converting PDF to images..."):
+#         pdf_images = convert_from_bytes(pdf_file.read())
+#         for page in pdf_images:
+#             images.append(page)
+#     return images
+
+
+def pdf_to_images(uploaded_pdf):
+    # Ouvre le PDF depuis les bytes uploadés
+    pdf_bytes = uploaded_pdf.read()
+    doc = fitz.open(stream=pdf_bytes, filetype="pdf")
+
     images = []
-    with st.spinner("Converting PDF to images..."):
-        pdf_images = convert_from_bytes(pdf_file.read())
-        for page in pdf_images:
-            images.append(page)
+    for page in doc:
+        pix = page.get_pixmap(dpi=150)  # ajuste la qualité
+        img_data = pix.tobytes("png")
+        image = Image.open(BytesIO(img_data))
+        images.append(image)
+
     return images
 
 # Function to concatenate images into one single image
