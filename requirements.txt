@@ -1,8 +1,5 @@
-opencv-python-headless==4.7.0.72
-streamlit
 torch
 Pillow
-numpy
 pandas
 deta
 python-dotenv
@@ -14,4 +11,11 @@ PyMuPDF
 ultralytics
 
 pytesseract
+
+opencv-python-headless==4.7.0.72
+easyocr==1.7.2
+torch==2.7.1
+torchvision==0.22.1
+streamlit==1.45.1
+numpy==2.3.0
 
