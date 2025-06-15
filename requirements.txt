@@ -13,4 +13,5 @@ requests
 streamlit-authenticator
 PyMuPDF
 ultralytics
+opencv-python-headless
 
