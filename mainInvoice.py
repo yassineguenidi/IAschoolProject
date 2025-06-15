@@ -4,7 +4,7 @@ from PIL import Image, ImageDraw
 from PIL import ImageFont
 import pathlib
 import numpy as np
-import easyocr
+# import easyocr
 import json
 import pandas as pd
 import fitz
