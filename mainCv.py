@@ -10,6 +10,7 @@ import pandas as pd
 import fitz
 import os
 import requests
+import cv2 as cv
 
 # from pdf2image import convert_from_bytes
 from io import BytesIO
@@ -76,14 +77,14 @@ def draw_boxes(image, detections):
 
     return image
 
-# def preprocess_cropped_image(cropped_image):
-#     img_array = np.array(cropped_image)
-#
-#     gray = cv2.cvtColor(img_array, cv2.COLOR_BGR2GRAY)
-#
-#     filtered = cv2.medianBlur(gray, 3)
-#
-#     return filtered
+def preprocess_cropped_image(cropped_image):
+    img_array = np.array(cropped_image)
+
+    gray = cv.cvtColor(img_array, cv2.COLOR_BGR2GRAY)
+
+    filtered = cv.medianBlur(gray, 3)
+
+    return filtered
 
 # Function to convert PDF to images
 # def pdf_to_images(pdf_file):
