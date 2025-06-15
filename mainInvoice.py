@@ -9,6 +9,7 @@ import easyocr
 import json
 import pandas as pd
 import fitz
+import os
 pathlib.PosixPath = pathlib.WindowsPath
 
 
