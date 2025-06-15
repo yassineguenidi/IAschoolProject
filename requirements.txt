@@ -3,7 +3,6 @@ streamlit
 torch
 Pillow
 numpy
-easyocr
 pandas
 deta
 python-dotenv
@@ -13,4 +12,6 @@ requests
 streamlit-authenticator
 PyMuPDF
 ultralytics
+
+pytesseract
 
