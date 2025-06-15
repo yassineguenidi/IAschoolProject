@@ -14,6 +14,7 @@ import pytesseract
 from io import BytesIO
 import sys
 # import cv2 as cv
+from yolov5.models.common import DetectMultiBackend
 
 from scipy.ndimage import median_filter
 
