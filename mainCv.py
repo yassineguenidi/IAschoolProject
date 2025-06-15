@@ -11,6 +11,7 @@ import fitz
 import os
 import requests
 import pytesseract
+import sys
 # import cv2 as cv
 sys.path.append('./yolov5')
 
