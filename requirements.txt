@@ -9,6 +9,7 @@ requests
 streamlit-authenticator
 PyMuPDF
 ultralytics
+opencv-python==0.0.0
 
 pytesseract
 opencv-python-headless==4.7.0.72
