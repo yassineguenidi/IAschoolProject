@@ -80,12 +80,22 @@ def draw_boxes(image, detections):
     return image
 
 
+# def preprocess_cropped_image(cropped_image):
+#     img_array = np.array(cropped_image)
+
+#     gray = cv.cvtColor(img_array, cv.COLOR_BGR2GRAY)
+
+#     filtered = cv.medianBlur(gray, 3)
+
+#     return filtered
+
 def preprocess_cropped_image(cropped_image):
-    img_array = np.array(cropped_image)
+    
+    gray = cropped_image.convert("L")  
 
-    gray = cv.cvtColor(img_array, cv.COLOR_BGR2GRAY)
+    gray_array = np.array(gray)
 
-    filtered = cv.medianBlur(gray, 3)
+    filtered = median_filter(gray_array, size=3)
 
     return filtered
 
