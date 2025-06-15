@@ -9,6 +9,7 @@ import easyocr
 import json
 import pandas as pd
 import fitz
+import os
 
 from pdf2image import convert_from_bytes
 from io import BytesIO
