@@ -1,4 +1,4 @@
-opencv-python-headless
+opencv-python-headless==4.7.0.72
 streamlit
 torch
 Pillow
@@ -13,5 +13,4 @@ requests
 streamlit-authenticator
 PyMuPDF
 ultralytics
-opencv-python-headless
 
