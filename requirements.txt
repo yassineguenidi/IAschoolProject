@@ -13,4 +13,5 @@ uvicorn
 requests
 streamlit-authenticator
 PyMuPDF
+ultralytics
 
