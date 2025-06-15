@@ -10,6 +10,8 @@ import json
 import pandas as pd
 import fitz
 import os
+import requests 
+
 pathlib.PosixPath = pathlib.WindowsPath
 
 
